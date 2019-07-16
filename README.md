@@ -1,2 +1,2 @@
-# fox-cicker
+# fox-clicker
  fox clicker game
